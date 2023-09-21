@@ -12,8 +12,10 @@ F1Score
 </br>
 
 ## Work
+
+![全体像](/png/MUFG2023SubImage.png)
 </br>
-![全体像](png/スクリーンショット2023-09-22005900.png "全体像")
+</br>
 </br>
 
 ### モデル
