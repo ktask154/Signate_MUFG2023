@@ -12,6 +12,10 @@ F1Score
 </br>
 
 ## Work
+</br>
+![全体像](png/スクリーンショット2023-09-22005900.png "全体像")
+</br>
+
 ### モデル
 - (deberta-v3-base) </br>  ↓  </br>
 - catboost
